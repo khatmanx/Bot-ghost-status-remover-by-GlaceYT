@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Jugando NzCraft Network","Jugando play.nzcraft.net"];
 
 
 let currentIndex = 0;
